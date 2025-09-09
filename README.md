@@ -1,2 +1,7 @@
-# web-04
- https://annaellycavitoria.github.io/Atividade-04/
+# Atividade 04
+
+Este projeto contém um site desenvolvido em **HTML**.
+
+Abaixo, você poderá acessar o site para visualizar tudo o que foi desenvolvido.
+
+https://annaellycavitoria.github.io/Atividade-04/
